@@ -1,0 +1,14 @@
+langchain
+chromadb
+datasets
+sentence-transformers
+rank-bm25
+gradio
+tqdm
+lxml
+
+langchain-community
+langchain-ollama
+transformers
+torch
+gradio

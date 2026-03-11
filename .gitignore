@@ -1,0 +1,8 @@
+.gradio/
+vector_store/
+test.py
+**pycache**/
+*.pyc
+.env
+venv/
+data/
